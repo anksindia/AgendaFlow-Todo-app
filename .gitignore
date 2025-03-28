@@ -1,0 +1,13 @@
+*.log
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+dist
+dist-ssr
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.njsproj
+*.sln
