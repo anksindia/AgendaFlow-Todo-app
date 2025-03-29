@@ -14,7 +14,7 @@ const Footer = ({ darkMode }) => {
             Developed & Designed by Ankit Suyal
           </p>
           <a 
-            href="https://github.com/yourusername/yourrepo" 
+            href="https://github.com/anksindia" 
             target="_blank" 
             rel="noopener noreferrer"
             className={`flex items-center transition-colors ${
